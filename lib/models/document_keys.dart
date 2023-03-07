@@ -1,0 +1,18 @@
+final documentKeysItems = <String>[
+  'bacs5_senegal',
+  'bacS3SenegalText',
+  'bacdNigerKey',
+  'bacS4SenegalText',
+  'bacS2aSenegalText',
+  'bacS1SenegalText',
+  'bacS2SenegalText',
+  'bacS5SenegalText',
+  'bacANigerText',
+  'bacCNigerText',
+  'licenceS1_Informatique_algerie',
+  'licenceS2_Informatique_algerie',
+  'licenceS3_Informatique_algerie',
+  'licenceS4_Informatique_algerie',
+  'licenceS5_Informatique_algerie',
+  'licenceS6_Informatique_algerie',
+];
